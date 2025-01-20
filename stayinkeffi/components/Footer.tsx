@@ -1,5 +1,5 @@
 import React from "react";
-import { Icons } from "@/components/ui/icons";
+// import { Icons } from "@/components/ui/icons";
 
 const Footer = () => {
   return (
@@ -18,13 +18,13 @@ const Footer = () => {
         </div>
         <div className="flex space-x-4 mt-4 md:mt-0">
           <a href="#" className="hover:text-gray-400">
-            <Icons.facebook />
+            {/* <Icons.facebook /> */}
           </a>
           <a href="#" className="hover:text-gray-400">
-            <Icons.twitter />
+            {/* <Icons.twitter /> */}
           </a>
           <a href="#" className="hover:text-gray-400">
-            <Icons.instagram />
+            {/* <Icons.instagram /> */}
           </a>
         </div>
       </div>
